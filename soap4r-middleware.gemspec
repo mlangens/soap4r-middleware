@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # this gem also works in ruby 1.8.7
-  s.add_dependency 'soap4r-ruby1.9', '2.0.0'
+  s.add_dependency 'soap4r-ng'
 end
